@@ -1,5 +1,6 @@
 classes=1
-train=./data/septoria.txt
-valid=./data/septoria.txt
+train=./data/septoria_train.txt
+valid=./data/septoria_val.txt
 names=data/septoria.names
+backup=backup/
 
